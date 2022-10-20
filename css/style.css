@@ -1,0 +1,19 @@
+.center{
+    background-color: #fff5cc;
+}
+.mainnav{
+    position: fixed;
+   /* width: 66%;
+   display: block;
+    margin: auto 0;*/
+    width: 100%;
+}
+.left{
+    background-color: #b3ffcc;
+}
+.right{
+    background-color: #b3ffcc;
+}
+p{
+    margin-top: 90px;
+}
