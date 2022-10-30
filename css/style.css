@@ -1,19 +1,30 @@
 .center{
-    background-color: #fff5cc;
+    background-color: #CBF3F0;
 }
 .mainnav{
     position: fixed;
+    background-color: #FFBF69;
    /* width: 66%;
    display: block;
     margin: auto 0;*/
     width: 100%;
 }
 .left{
-    background-color: #b3ffcc;
+    background-color: #2EC4B6;
 }
 .right{
-    background-color: #b3ffcc;
+    background-color: #2EC4B6;
 }
 p{
-    margin-top: 90px;
+    margin-top: 6em;
 }
+nav{
+    background-color: #FFBF69;
+}
+#leftup{
+    float: left;
+    margin-top: 6em;
+    margin-right: 1em;
+    width: 20%;
+}
+/*FF9F1C,FFBF69,FFFFFF,CBF3F0,2EC4B6
